@@ -1,0 +1,14 @@
+# Core RAG and vector search
+pymupdf>=1.24.0
+faiss-cpu>=1.8.0
+sentence-transformers>=3.0.0
+torch>=2.0.0
+
+# UI & Web
+streamlit>=1.35.0
+
+# Cloud LLM Provider (Groq for ultra-fast, free cloud inference)
+groq>=0.11.0
+openai>=1.30.0
+requests>=2.31.0
+python-dotenv>=1.0.1
